@@ -1,0 +1,10 @@
+{
+  "include": [
+    "Jarvis Voice Agent"
+  ],
+  "extraPaths": [
+    "Jarvis Voice Agent",
+    "Jarvis Voice Agent/backend"
+  ],
+  "reportMissingImports": "warning"
+}

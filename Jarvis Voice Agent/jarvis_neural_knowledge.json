@@ -1,0 +1,16 @@
+{
+  "user_profile": {
+    "role": "AI/ML engineer",
+    "preferred_reply_style": "concise spoken direct answers",
+    "name": "Shravan",
+    "mood": "very great",
+    "requested_leave_days": 1
+  },
+  "learned_rules": [
+    "Always format answers as concise, natural spoken responses without markdown"
+  ],
+  "interaction_stats": {
+    "total_learned_facts": 8,
+    "corrections_applied": 1
+  }
+}

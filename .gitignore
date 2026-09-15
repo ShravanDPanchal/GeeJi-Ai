@@ -1,0 +1,52 @@
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+*.swp
+*.swo
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+.venv/
+venv/
+env/
+ENV/
+.pytest_cache/
+.mypy_cache/
+.pyright/
+*.log
+
+# Node / frontend
+node_modules/
+dist/
+build/
+.vite/
+.npm/
+*.tsbuildinfo
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Local app data / generated files
+jarvis_memory.json
+*.bak
+*.tmp
+recordings/
+*.wav
+*.mp3
+*.ogg
+
+# Large local model artifacts
+gemma-2b-it/
+gemma-2-2b-it/
+gemma-4-31B-it/
+local_model_3b/
+*.safetensors
+*.bin
+*.gguf
+*.ckpt
